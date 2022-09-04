@@ -191,3 +191,55 @@ nav{
     /* border: 2px solid rgb(38, 35, 35); */
     font-family: Raleway;
 }
+
+/* ------Footer----- */
+
+footer{
+    background-color: rgb(19, 29, 41);
+    padding: 50px 100px;
+}
+
+.socials-div{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.socials{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    list-style: none;
+}
+.socials img{
+    width: 20px;
+    background-image: radial-gradient(#fff ,rgb(230, 229, 229));
+    padding: 5px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.footer-line  {
+    color: white;
+    border: 2px solid white;
+}
+
+hr{
+    color: rgb(107, 105, 105);
+    size: 100vw;
+}
+
+table{
+    color: white;
+    /* border: 1px solid white; */
+    width: 100%;
+    /* padding: 0px 100px; */
+}
+
+th{
+    text-align: left;
+}
+
+td{
+    color: #686868;
+}
