@@ -26,6 +26,7 @@ p{
     flex-direction: column;
     align-items: center;
     /* background-image: linear-gradient(to right, rgb(215, 248, 187),rgb(188, 236, 244)); */
+    padding-bottom: 50px;
 }
 
 .grey-box{
