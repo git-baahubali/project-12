@@ -1,3 +1,3 @@
 # Project 12
 
-[ Website Link ]("https://master--taupe-madeleine-44ceb8.netlify.app", "Click here to view website" )
+[ Website Link ]("https://master--taupe-madeleine-44ceb8.netlify.app")
